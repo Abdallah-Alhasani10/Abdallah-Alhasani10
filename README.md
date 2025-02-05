@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdallah Al-Hasani
 
-<!--
-**Abdallah-Alhasani10/Abdallah-Alhasani10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ Backend Developer | 🧠 ML/DL/NLP Specialist  
 
-Here are some ideas to get you started:
+### 💡 About Me  
+- 🚀 Backend Developer specializing in **Node.js** for building scalable **RESTful APIs** and **Microservices**.  
+- 🤖 Passionate about **Deep Learning (DL), Machine Learning (ML), and Natural Language Processing (NLP)** with **Python**.  
+- 💾 Experienced in working with **SQL and NoSQL databases** (MongoDB, PostgreSQL, Redis).  
+- ⚡ Interested in AI model development and cloud deployment.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Backend:** Node.js (Express.js)  TypeScript
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **ML/DL/NLP:** TensorFlow, PyTorch, OpenCV, Transformers (Hugging Face) ,RAG,LangChain 
