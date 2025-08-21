@@ -66,7 +66,7 @@
 ## 🌐 Connect With Me  
 
 - 📧 Email: [abdallahalhasani262@gmail.com](mailto:abdallahalhasani262@gmail.com)  
-- 🧑‍💻 GitHub: [github.com/Moaz-Alhasani](https://github.com/Moaz-Alhasani)  
+- 🧑‍💻 GitHub: [github.com/Abdallah-Alhasani10](https://github.com/Abdallah-Alhasani10)  
 
 ---
 
