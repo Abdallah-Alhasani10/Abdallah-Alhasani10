@@ -18,12 +18,14 @@
 
 ## 🛠 Tech Stack  
 
-### 🤖 AI / NLP / ML  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)  
-![LangChain](https://img.shields.io/badge/LangChain-2E77BC?logo=chainlink&logoColor=white)  
+▎🤖 AI / NLP / ML
 
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorchlogoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflowlogoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingfacelogoColor=black" alt="HuggingFace" />
+    <img src="https://img.shields.io/badge/LangChain-2E77BC?logo=chainlinklogoColor=white" alt="LangChain" />
+</div>
 
 ---
 
