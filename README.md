@@ -34,9 +34,9 @@
 ---
 
 ### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) 
+  
 
 
 
